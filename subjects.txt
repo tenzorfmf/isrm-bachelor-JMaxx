@@ -1,0 +1,350 @@
+Outline of the notes tree (generated from the file system; see file-history.csv for what happened to removed files).
+A subject marked (?) has a name that was guessed from the shorthand and the contents.
+
+1 letnik/  (80 PDFs)
+========================================
+
+ANA1 - Analiza 1
+`-- ANA1-zapiski.pdf
+
+ANA2 - Analiza 2
+|-- ANA2-vaje.pdf
+`-- ANA2-zapiski.pdf
+
+ARS - Arhitektura računalniških sistemov
+|-- ARS-vaje.pdf
+`-- stari izpiti/
+    |-- ARS-izpit-2019-06-10.pdf
+    |-- ARS-izpit-2020-08-20.pdf
+    |-- ARS-izpit-2021-06-11.pdf
+    |-- ARS-izpit-2021-07-01.pdf
+    |-- ARS-izpit-2022-drugi-rok.pdf
+    |-- ARS-kolokvij-1-primer.pdf
+    |-- ARS-pogosta-vprasanja-na-izpitu.pdf
+    |-- ARS-vprasanja-ars-wars.pdf
+    |-- ARS-vprasanja-arsington.pdf
+    `-- ARS-vprasanja-za-ponavljanje.pdf
+
+DS1 - Diskretne strukture 1
+`-- DS1-zapiski.pdf
+
+DS2 - Diskretne strukture 2
+|-- DS2-vaje.pdf
+|-- DS2-zapiski.pdf
+`-- stari izpiti/
+    |-- DS2-izpit-2018-06-19.pdf
+    |-- DS2-izpit-2018-07-03.pdf
+    |-- DS2-izpit-2018-08-22.pdf
+    |-- DS2-izpit-2019-04-16.pdf
+    |-- DS2-izpit-2019-06-20.pdf
+    |-- DS2-izpit-2019-07-03.pdf
+    |-- DS2-izpit-2019-09-02.pdf
+    |-- DS2-izpit-2020-06-10.pdf
+    |-- DS2-izpit-2020-06-23.pdf
+    |-- DS2-izpit-2020-08-27.pdf
+    |-- DS2-izpit-2023-06-08.pdf
+    |-- DS2-kolokvij-2017-04-10.pdf
+    `-- DS2-kolokvij-2019-05-30.pdf
+
+LA - Linearna algebra
+|-- stari izpiti/
+|   |-- LA-izpit-2015-06-26.pdf
+|   |-- LA-izpit-2015-07-02.pdf
+|   |-- LA-kolokvij-1-2005-11-30.pdf
+|   |-- LA-kolokvij-1-2006-11-22.pdf
+|   |-- LA-kolokvij-1-2007-11-20.pdf
+|   |-- LA-kolokvij-1-2008-11-26.pdf
+|   |-- LA-kolokvij-1-2009-11-20.pdf
+|   |-- LA-kolokvij-2-2006-06-05.pdf
+|   |-- LA-kolokvij-2-2009-05-29.pdf
+|   |-- LA-kolokvij-2-2011-01-26.pdf
+|   |-- LA-kolokvij-2-2012-03-02.pdf
+|   |-- LA-kolokvij-2-2013-03-08.pdf
+|   |-- LA-kolokvij-2-2016-03-03.pdf
+|   |-- LA-kolokvij-3-2012-04-20.pdf
+|   |-- LA-kolokvij-3-2012-04-25.pdf
+|   |-- LA-kolokvij-3-2015-04-08.pdf
+|   |-- LA-kolokvij-3-2016-05-06.pdf
+|   |-- LA-kolokvij-4-2007-05-28.pdf
+|   |-- LA-kolokvij-4-2012-07-04.pdf
+|   |-- LA-kolokvij-4-2013-06-07.pdf
+|   `-- LA-kolokvij-4-2016-06-03.pdf
+|-- vaje/
+|   |-- LA-dn.pdf
+|   |-- LA-dn4.pdf
+|   `-- LA-vaje.pdf
+`-- zapiski/
+    |-- LA-zapiski-convert.pdf
+    `-- LA-zapiski.pdf
+
+ODV - Osnove digitalnih vezij (?)
+`-- stari izpiti/
+    |-- ODV-izpit-2005-06-14.pdf
+    |-- ODV-izpit-2008-02.pdf
+    |-- ODV-izpit-2008-06-12.pdf
+    |-- ODV-izpit-2008-09-15.pdf
+    |-- ODV-izpit-2011-02-02.pdf
+    |-- ODV-izpit-2011-02-16.pdf
+    |-- ODV-izpit-2012-02-02.pdf
+    |-- ODV-izpit-2012-02-16.pdf
+    |-- ODV-izpit-2013-01-29.pdf
+    |-- ODV-izpit-2015-02-11.pdf
+    |-- ODV-izpit-2017-01-12.pdf
+    |-- ODV-izpit-2017-02-16.pdf
+    |-- ODV-izpit-2017-09-08.pdf
+    |-- ODV-izpit-2019-01-22.pdf
+    |-- ODV-izpit-2020-01-28.pdf
+    |-- ODV-izpit-2020-02-07.pdf
+    |-- ODV-izpit-2020-08-31.pdf
+    |-- ODV-izpit-2021-01-29.pdf
+    |-- ODV-izpit-2021-02-09.pdf
+    |-- ODV-izpit-2022-01-21.pdf
+    |-- ODV-izpit-2022-02-09.pdf
+    |-- ODV-izpit-2022-03-11.pdf
+    `-- ODV-izpit-2022-08-26.pdf
+
+Prog2 - Programiranje 2
+`-- Prog2-zapiski.pdf
+
+2 letnik/  (115 PDFs)
+========================================
+
+ANA3 - Analiza 3
+|-- ANA3-vaje.pdf
+|-- ANA3-zapiski.pdf
+`-- stari izpiti/
+    |-- ANA3-izpit-2018-01-24.pdf
+    |-- ANA3-izpit-2018-02-13.pdf
+    |-- ANA3-izpit-2018-08-21.pdf
+    |-- ANA3-izpit-2019-01-25.pdf
+    |-- ANA3-izpit-2020-01-31.pdf
+    |-- ANA3-izpit-2020-02-12.pdf
+    |-- ANA3-izpit-2020-08-18.pdf
+    |-- ANA3-kolokvij-2017-12-06.pdf
+    |-- ANA3-kolokvij-2018-01-15.pdf
+    |-- ANA3-kolokvij-2018-12-03.pdf
+    |-- ANA3-kolokvij-2019-01-18.pdf
+    |-- ANA3-kolokvij-2019-12-02.pdf
+    `-- ANA3-kolokvij-2020-01-16.pdf
+
+APS2 - Algoritmi in podatkovne strukture 2
+|-- APS2-cheatsheet.pdf
+|-- APS2-predavanja.pdf
+|-- APS2-zapiski-2019-20.pdf
+`-- stari izpiti/
+    |-- APS2-izpit-2020-06-09.pdf
+    |-- APS2-izpit-2021-06-08.pdf
+    |-- APS2-izpit-2021-06-29.pdf
+    |-- APS2-izpit-2023-06-15.pdf
+    |-- APS2-izpit-2023-prvi-rok-praksa.pdf
+    |-- APS2-teorija-3rok-2019-20.pdf
+    |-- APS2-ustni-spomini-2022-2023.pdf
+    `-- APS2-vprasanja-practice.pdf
+
+IPM - Izbrana poglavja iz matematike
+|-- IPM-vaje.pdf
+|-- IPM-zapiski.pdf
+`-- stari izpiti/
+    |-- IPM-izpit-2018-06-13.pdf
+    |-- IPM-izpit-2018-06-28.pdf
+    |-- IPM-izpit-2018-08-20.pdf
+    |-- IPM-izpit-2019-06-10.pdf
+    |-- IPM-izpit-2019-06-26.pdf
+    |-- IPM-izpit-2019-08-19.pdf
+    |-- IPM-izpit-2021-06-04.pdf
+    |-- IPM-izpit-2021-07-02.pdf
+    |-- IPM-izpit-2022-06-02.pdf
+    |-- IPM-izpit-2022-06-17.pdf
+    |-- IPM-izpit-2022-08-19.pdf
+    |-- IPM-kolokvij-2018-04-18.pdf
+    |-- IPM-kolokvij-2018-05-30.pdf
+    |-- IPM-kolokvij-2019-04-25.pdf
+    |-- IPM-kolokvij-2019-05-30.pdf
+    |-- IPM-kolokvij-2021-05-07.pdf
+    |-- IPM-kolokvij-2021-06-04.pdf
+    |-- IPM-kolokvij-2022-04-04.pdf
+    |-- IPM-kolokvij-2022-05-16.pdf
+    |-- IPM-kolokvij-2023-04-07.pdf
+    `-- IPM-kolokvij-2023-05-16.pdf
+
+IRZ - Izračunljivost in računska zahtevnost
+|-- IRZ-plonk-cheatsheet.pdf
+|-- IRZ-vaje.pdf
+|-- IRZ-vprasanja-tematski-povzetek.pdf
+|-- IRZ-zapiski.pdf
+`-- stari izpiti/
+    |-- IRZ-izpit-2018-02-02.pdf
+    |-- IRZ-izpit-2019-01-08.pdf
+    |-- IRZ-izpit-2020-02-03-rocne-resitve.pdf
+    |-- IRZ-izpit-2021-01-22-teorija-in-praksa.pdf
+    |-- IRZ-izpit-2021-2-rok.pdf
+    |-- IRZ-izpit-2023-02-07.pdf
+    |-- IRZ-izpit-delna-naloga-turingov-stroj.pdf
+    |-- IRZ-kolokvij-2016-11-30.pdf
+    |-- IRZ-kolokvij-2017-11-23.pdf
+    |-- IRZ-kolokvij-2018-01-10-teorija.pdf
+    |-- IRZ-kolokvij-2022-11-23-prakticni-del.pdf
+    |-- IRZ-kolokvij-2023-01-10.pdf
+    |-- IRZ-kolokvij-vaja-poglavja-1-5.pdf
+    |-- IRZ-poskusni-kolokvij-2020-12-28.pdf
+    |-- IRZ-praksa-2018-02-02-vprasanja-6-8.pdf
+    |-- IRZ-praksa-2020-02-13-vpr.pdf
+    |-- IRZ-praksa-2021-tretji-rok-zapiski.pdf
+    |-- IRZ-prakticni-kolokvij-2017-11.pdf
+    |-- IRZ-primeri-nalog-2021-12-23.pdf
+    |-- IRZ-prvi-izpit-2022-zapiski-izpitnih-vprasanj.pdf
+    |-- IRZ-prvi-rok-2020-vprasanja-in-zapiski.pdf
+    |-- IRZ-prvi-rok-2022-23-resitve.pdf
+    |-- IRZ-prvi-rok-2023-01-26.pdf
+    |-- IRZ-roki-2022-resitve.pdf
+    `-- IRZ-teorija-izpiti-1-5.pdf
+
+KOMB - Kombinatorika
+|-- KOMB-vaje.pdf
+|-- KOMB-zapiski.pdf
+`-- stari izpiti/
+    |-- KOMB-2010-04-16.pdf
+    |-- KOMB-2014-11-25.pdf
+    `-- KOMB-2022-11-28.pdf
+
+OM - Optimizacijske metode (?)
+|-- OM-vaje.pdf
+`-- OM-zapiski.pdf
+
+OPB - Osnove podatkovnih baz (?)
+|-- OPB-vsa-snov-teorija.pdf
+`-- stari izpiti/
+    |-- OPB-1-kolokvij-practice.pdf
+    |-- OPB-1-kolokvij-screenshots-practice.pdf
+    |-- OPB-2-kolokvij-page1-practice.pdf
+    |-- OPB-2-kolokvij-practice.pdf
+    |-- OPB-3-kolokvij-practice.pdf
+    |-- OPB-izpit1-practice.pdf
+    |-- OPB-kolokvij3-screenshots-practice.pdf
+    |-- OPB-lekcije-na-daljavo-practice.pdf
+    |-- OPB-resitve-vprasanj-practice.pdf
+    `-- OPB-vprasanja-practice.pdf
+
+PPJ - Principi programskih jezikov
+|-- PPJ-prolog-cheatsheet-2.pdf
+|-- PPJ-prolog-cheatsheet-gpt.pdf
+`-- stari izpiti/
+    |-- PPJ-izpit-2018-06-20.pdf
+    |-- PPJ-izpit-2018-07-05.pdf
+    |-- PPJ-izpit-2018-08-27.pdf
+    |-- PPJ-izpit-2019-06-18.pdf
+    |-- PPJ-izpit-2019-06-28.pdf
+    |-- PPJ-izpit-2019-08-23.pdf
+    |-- PPJ-izpit-2020-06-05.pdf
+    |-- PPJ-izpit-2020-06-24.pdf
+    |-- PPJ-izpit-2020-08-19.pdf
+    |-- PPJ-izpit-2021-06-14.pdf
+    |-- PPJ-izpit-2021-06-24.pdf
+    `-- PPJ-izpit-2021-09-07.pdf
+
+RK - Računalniške komunikacije
+`-- stari izpiti/
+    |-- RK-2017-18-izpiti-1-3.pdf
+    |-- RK-2018-04-09-kolokvij1.pdf
+    |-- RK-2018-19-izpita-1-in-2.pdf
+    |-- RK-2021-22-izpit-1.pdf
+    `-- RK-2021-22-izpita-1-in-2.pdf
+
+3 letnik/  (74 PDFs)
+========================================
+
+APT - AI Principles and Techniques (?)
+|-- APT-vaje.pdf
+`-- stari izpiti/
+    |-- APT-ai-principles-first-partial-2020.pdf
+    |-- APT-ai-search-planning-ml-second-partial-2015.pdf
+    |-- APT-map-explanation-practice.pdf
+    |-- APT-naive-bayes-noisy-or-practice.pdf
+    |-- APT-optimizacijske-metode-2012.pdf
+    |-- APT-optimizacijske-metode-2014-15.pdf
+    |-- APT-optimizacijske-metode-2016-17.pdf
+    |-- APT-optimizacijske-metode-2020-06-11.pdf
+    `-- APT-search-planning-ml-resit-2014.pdf
+
+BCI - Brain-Computer Interfacing (?)
+|-- BCI-zapiski.pdf
+`-- stari izpiti/
+    |-- BCI-entry-self-test.pdf
+    |-- BCI-exam-2021-01-15.pdf
+    |-- BCI-exam-2022-01-19.pdf
+    |-- BCI-exam-2023-01-18.pdf
+    |-- BCI-exam-2024-01-25.pdf
+    |-- BCI-example-exam-2021.pdf
+    |-- BCI-resit-2021-03-24.pdf
+    |-- BCI-resit-2022-03-23.pdf
+    |-- BCI-resit-2023-03-23.pdf
+    `-- BCI-resit-2024-03-26.pdf
+
+DM - Podatkovno rudarjenje / Data Mining (?)
+|-- DM-zapiski.pdf
+`-- stari izpiti/
+    |-- DM-endterm-2016-open.pdf
+    |-- DM-example-midterm-no-key.pdf
+    |-- DM-midterm-2015-open-with-solutions.pdf
+    |-- DM-midterm-example-with-answer-version.pdf
+    |-- DM-midterm-example-with-solutions.pdf
+    |-- DM-reexam-april-2020-open.pdf
+    |-- DM-sample-endterm-no-answers.pdf
+    `-- DM-sample-endterm-with-solutions.pdf
+
+MM - Matematično modeliranje (?)
+|-- MM-predavanja.pdf
+`-- MM-vaje.pdf
+
+NM - Numerične metode
+|-- NM-predavanja-do-2025-01-17.pdf
+|-- NM-predstavitve-stevil-in-nelinearne-enacbe-2024-10-11.pdf
+|-- NM-vaje.pdf
+|-- NM-zapiski-matlab-in-norme.pdf
+|-- NM-zapiski-p.pdf
+`-- NM-zapiski-v.pdf
+
+PSP - ime ni znano (?) - Arduino, mobile sensing, cloud
+`-- stari izpiti/
+    |-- PSP-2023-third-sitting-exercise-app.pdf
+    |-- PSP-2023-third-sitting-q1-ac-fan.pdf
+    |-- PSP-2023-third-sitting-q1-partial.pdf
+    |-- PSP-2023-third-sitting-q3-mobile-sensing.pdf
+    |-- PSP-2023-third-sitting-q4-cloud-models.pdf
+    |-- PSP-spring-2020-final-2-july.pdf
+    |-- PSP-spring-2020-final-network-and-lifecycle.pdf
+    |-- PSP-spring-2020-final-with-solutions.pdf
+    |-- PSP-spring-2021-final-17-june.pdf
+    |-- PSP-spring-2021-final-7-june.pdf
+    |-- PSP-spring-2022-final-with-solutions.pdf
+    |-- PSP-spring-2024-final-17-june-taxi.pdf
+    `-- PSP-spring-2024-final-5-june-weather.pdf
+
+VRS - Verjetnost in statistika (?)
+|-- VRS-formule-za-2-kolokvij.pdf
+|-- VRS-vaje.pdf
+|-- stari izpiti/
+|   |-- VRS-izpit-2024-06-28.pdf
+|   |-- VRS-kolokvij-2021-12-20.pdf
+|   |-- VRS-kolokvij-2022-03-28.pdf
+|   |-- VRS-kolokvij-2022-12-06.pdf
+|   |-- VRS-kolokvij-2023-03-17.pdf
+|   |-- VRS-kolokvij-2023-06-05.pdf
+|   |-- VRS-kolokvij-2023-11-24.pdf
+|   |-- VRS-kolokvij-2024-03-07.pdf
+|   |-- VRS-kolokvij-2024-04-25.pdf
+|   |-- VRS-kolokvij-in-izpit-2024-06-12.pdf
+|   `-- VRS-teoreticni-izpit-vzorec-2024-25.pdf
+`-- zapiski/
+    |-- VRS-08-rodovne-funkcije.pdf
+    |-- VRS-09-limitni-izreki-starejsa-verzija.pdf
+    |-- VRS-09-limitni-izreki.pdf
+    |-- VRS-10-statistika.pdf
+    |-- VRS-celoten-zvezek.pdf
+    |-- VRS-pogojna-verjetnost-2024-10-10.pdf
+    |-- VRS-predavanja-komplet.pdf
+    |-- VRS-uvod-2024-10-10-algebra-dogodkov.pdf
+    |-- VRS-uvod-zgodovina-in-definicije-verjetnosti.pdf
+    `-- VRS-zvezek-verjetnost.pdf
+
+Total: 269 PDFs
